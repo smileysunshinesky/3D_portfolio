@@ -324,7 +324,7 @@ const projects = [
 const personalInfo = {
   name: "Daniel",
   fullName: "Daniel Rai",
-  email: "raiDaniel619@gmail.com",
+  email: "handaniel214@gmail.com",
   role: "Software Developer",
   about: `I'm a skilled software developer with experience in TypeScript and
   JavaScript, and expertise in frameworks like React.Js, React-naitve,
