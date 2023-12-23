@@ -1,6 +1,6 @@
 # 3D Portfolio Website
 
-![3D Portfolio](https://github.com/shridharrai/3D-Portfolio/assets/50835817/78d803d6-aaaf-492c-bf2a-30881e32bcf0)
+![3D Portfolio](https://github.com/Danielrai/3D-Portfolio/assets/50835817/78d803d6-aaaf-492c-bf2a-30881e32bcf0)
 
 Welcome to my captivating 3D portfolio website project! Harnessing the power of cutting-edge technologies, I've crafted a mesmerizing and responsive portfolio site that's not just visually stunning but also incredibly easy for anyone to personalize.
 
@@ -20,7 +20,7 @@ Welcome to my captivating 3D portfolio website project! Harnessing the power of 
 - **Optimized Performance**: Employ Suspense and Preload techniques to deliver a blazing-fast user experience.
 
 ## 🌐 Live Demo
-Experience it in action! Check out the <a href="https://shridharportfolio.netlify.app/" target="_blank">Live Demo</a>.
+Experience it in action! Check out the <a href="https://Danielportfolio.netlify.app/" target="_blank">Live Demo</a>.
 
 
 ## 🛠️ Usage
